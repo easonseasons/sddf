@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Game Hub</title>
+  </head>
+  <body>
+    <h1>My Games</h1>
+    <a href="https://example.com">Game Link</a>
+  </body>
+</html>
